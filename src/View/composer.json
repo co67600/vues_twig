@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "twig/twig": "^2.12"
+        "twig/twig": "^3.11"
     },
     "autoload": {
         "psr-4": {"App\\": "src/"}
